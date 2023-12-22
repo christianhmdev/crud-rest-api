@@ -16,7 +16,9 @@
 
 ## Description
 
-This is a simple CRUD for users (Create, Read, Update, Delete, READ ALL) API Rest implemented using:
+This is a simple CRUD for users (Create, Read, Update, Delete, READ ALL) with the following technologies:
+
+## Technologies
 
 - Java 17
 - Spring Boot 3.2.0
@@ -29,8 +31,6 @@ This is a simple CRUD for users (Create, Read, Update, Delete, READ ALL) API Res
 - BDDMockito
 - JUnit
 
-## Technologies
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,idea,)](https://skillicons.dev)
 
 ## Configuration
@@ -38,7 +38,7 @@ This is a simple CRUD for users (Create, Read, Update, Delete, READ ALL) API Res
 Copy and paste the following command in your terminal to clone this repository:
 
 ```
-git clone https://github.com/christianhmdev/crud-rest-api.git
+git clone https://github.com/christianhmdev/git commit -m "first commit".git
 ```
 
 ## Functionalities
